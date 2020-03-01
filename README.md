@@ -6,3 +6,5 @@ of [Scrapinghub](https://scrapinghub.com) technologies.
 There is not much to see here yet, but stay tuned, we're just getting started!
 
 changed the file in git repo
+
+another change made
